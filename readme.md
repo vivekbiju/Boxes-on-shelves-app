@@ -1,3 +1,6 @@
+Live Demo: [boxes-on-shelves-app.streamlit.app](https://boxes-on-shelves-app.streamlit.app)
+
+
 <img width="1523" height="737" alt="image" src="https://github.com/user-attachments/assets/d82b296b-d44a-488f-8df5-c5f64862f871" />
 
 
